@@ -1,5 +1,5 @@
 ### Hi there 👋
-![sabomichal-space-shooter](https://github.com/user-attachments/assets/029f3be9-9182-4187-8f17-4833245e7178)
+![sabomichal-space-shooter](game.gif)
 
 <!--
 **sabomichal/sabomichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
