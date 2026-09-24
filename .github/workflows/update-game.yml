@@ -6,6 +6,12 @@ on:
     - cron: '17 3 * * *'
   workflow_dispatch: # manuálne spustenie zo záložky Actions
 
+# Zabráni súbežným behom (napr. cron + ručné spustenie naraz), ktoré si
+# navzájom odmietajú push. Nový beh zruší ten prebiehajúci.
+concurrency:
+  group: update-space-shooter
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
