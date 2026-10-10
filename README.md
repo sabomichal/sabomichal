@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![sabomichal-space-shooter](game.gif)
 
-<iframe src="https://github.com/sponsors/sabomichal/button" title="Sponsor sabomichal" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=githubsponsors)](https://github.com/sponsors/sabomichal)
 
 <!--
 **sabomichal/sabomichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
