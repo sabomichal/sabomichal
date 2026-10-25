@@ -2,7 +2,7 @@
 
 # Michal Sabo
 
-Based in Slovakia. I take the code seriously, myself a bit less.
+I take the code seriously, myself a bit less.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sabomichal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabomichal/)
